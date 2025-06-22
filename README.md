@@ -6,38 +6,6 @@
 
 Tulip is a modern, highly customizable, and production-ready CSS library built to provide a clean and consistent design foundation for your web projects. Inspired by the polished aesthetic and user-friendly principles of Google's design systems, Tulip offers a robust set of pre-styled components and utility classes, all managed through easily overrideable CSS variables for effortless theming.
 
-## Table of Contents
-
-1.  [Features](#features)
-2.  [Installation](#installation)
-3.  [Customization](#customization)
-    *   [CSS Variables](#css-variables)
-    *   [Theming](#theming)
-4.  [Components](#components)
-    *   [Buttons](#buttons)
-    *   [Forms](#forms)
-    *   [Cards](#cards)
-    *   [Alerts](#alerts)
-    *   [Badges](#badges)
-    *   [Navigation](#navigation)
-    *   [Dropdowns](#dropdowns)
-    *   [Modals](#modals)
-    *   [Tooltips](#tooltips)
-    *   [Pagination](#pagination)
-5.  [Utility Classes](#utility-classes)
-6.  [Browser Support](#browser-support)
-7.  [Contributing](#contributing)
-8.  [License](#license)
-
-## Features
-
-*   **Single CSS File:** All styles are contained within a single, easily manageable `tulip.css` file, simplifying integration and hosting.
-*   **CSS Variables (Custom Properties):** The library is built with extensive use of CSS variables, allowing for complete control over colors, typography, spacing, borders, and shadows without modifying core component styles.
-*   **BEM Naming Convention:** A logical and scalable naming convention (Block-Element-Modifier) ensures maintainable and understandable CSS.
-*   **Comprehensive Components:** Includes styles for essential UI elements like buttons, forms, cards, alerts, navigation, modals, tooltips, badges, and pagination.
-*   **Powerful Utility Classes:** A rich set of utility classes helps in quickly styling elements and controlling layout directly in your HTML.
-*   **Accessibility Focused:** Incorporates basic accessibility features and best practices.
-*   **Responsive by Design:** Styles are structured to adapt gracefully to different screen sizes.
 
 ## Installation
 
